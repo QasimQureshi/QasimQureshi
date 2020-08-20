@@ -2,7 +2,7 @@
 
 Thanks for stopping by! Would you like to get to know more about me?
 
-Skilled in Rails + Node stacks. Performant web applications, frontend and backend development, RESTful microservices, and cross-platform mobile apps.
+I'm skilled in Rails + Node stacks. Performant web applications, frontend and backend development, RESTful microservices, and cross-platform mobile apps.
 
 With experience working on teams from across the globe, I aspire to be a self-learner, helper, do-gooder, and to always up for a good challenge.
 
